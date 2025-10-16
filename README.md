@@ -20,7 +20,7 @@ This tutorial outlines the implementation of on-premise Active Directory within 
 
 <h2>Step 1: Log into our DC-1 (Domain Controller) Virtual Machine</h2>
 <b>Log into your domain controller as Jane Admin</b>
-<img src="https://imgur.com/a/90l9jg1" width="600" alt="AD"/>
+<img src="https://i.imgur.com/8oziyjU.png" width="600" alt="AD"/>
 <br />
 
 
